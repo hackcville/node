@@ -1,7 +1,7 @@
 # The Node
 
 ## Introduction
-The Node is a 10 week data science program hosted at [HackCville](hackcville.com) in Charlottesville, VA.
+The Node is a 10 week data science program hosted at [HackCville](https://hackcville.com) in Charlottesville, VA.
 
 The goal of the program is for you to learn the foundations of data science in Python and practice applying these skills to different types of projects.
 
