@@ -9,6 +9,7 @@ We will use this Github repo to hold our week by week curriculum. This repo is o
 
 ## Topics we will cover
 * Intro to Python and Pandas
+* Cleaning and Manipulating Data
 * Intermediate Pandas and Basic Statistics
 * Visualization
 * Regression
